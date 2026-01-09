@@ -1,5 +1,5 @@
 # Hi there, I'm Somia Saber 👋 
-### Full-Stack Developer | AI & Deep Learning Enthusiast
+### Full-Stack Developer | PHP, Laravel | Angular & ASP.NET Core | AI & Deep Learning Enthusiast | Remote Work
 
 <p align="left">
  <a href="https://www.linkedin.com/in/somia-saber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Somia Saber" height="30" width="40" /></a>
