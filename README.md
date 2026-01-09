@@ -65,7 +65,7 @@
 
 ### 🌐 Languages
 - *Arabic:* Native
-- *English:* Fluent / Professional Working Proficiency
+- *English:* Intermediate
 
 ---
 
