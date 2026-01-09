@@ -8,9 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 *Current Focus:* Building scalable web applications using *PHP (Laravel)*, *ASP.NET Core* and *Angular*.
-- 🎓 *Education:* Graduate of *Future University in Egypt (FUE) | 2019 - 2023 Bachelor’s degree: Faculty of Computers and Information Technology - Department of  
-Computer Science *.
+- 🔭 *Current Focus:* Building scalable web applications using *PHP (Laravel), **ASP.NET Core* and *Angular*.
+- 🎓 *Education:* Bachelor’s degree from *Future University in Egypt (FUE)* | Faculty of Computers and Information Technology - Computer Science (2019 - 2023).
 - 🏆 *Graduation Project:* *Dental X-Ray AI Analysis* (Grade: *A+*) — A cutting-edge Deep Learning project for medical image analysis.
 - 💻 *Experience:* Expert in *Full-Stack development* with a strong background in *PHP/Laravel* and *C#/.NET*.
 - 💼 *Specialty:* Bridging the gap between robust backend systems and modern AI solutions.
@@ -45,11 +44,28 @@ Computer Science *.
 ### 📂 Featured Projects
 
 * *📅 Time Schedule Management System*
-    * A robust system developed for *Ain Shams University* to manage complex faculty and student schedules efficiently.
+    * A robust management system developed for *Ain Shams University* to handle complex scheduling using modern web frameworks.
     * *Tech:* Angular, ASP.NET Core, SQL Server.
 * *🦷 Dental X-Ray AI Analysis*
-    * Integrated Deep Learning models into a functional web interface to detect dental issues from X-ray images with high accuracy.
-    * *Tech:* Python, TensorFlow/PyTorch, Web APIs.
+    * Graduation project integrating Deep Learning models into a functional web interface for medical analysis.
+    * *Tech:* Python, TensorFlow, Deep Learning.
+* *💻 Portfolio Website*
+    * Personal portfolio showcasing projects and technical skills.
+    * *Tech:* TailwindCSS, HTML, JavaScript.
+
+---
+
+### 📜 Certifications & Courses
+- 🎖️ *Full Stack Web Development* (PHP & Laravel)
+- 🎖️ *ASP.NET Core & Angular* Development Course
+- 🎖️ *Deep Learning Specialist* - AI Research & Implementation
+- 🎖️ *Clean Code & Design Patterns*
+
+---
+
+### 🌐 Languages
+- *Arabic:* Native
+- *English:* Fluent / Professional Working Proficiency
 
 ---
 
@@ -58,9 +74,10 @@ Computer Science *.
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somia-Saber&theme=algolia" />
 </p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Somia-Saber&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Somia-Saber&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Somia-Saber&show_icons=true&theme=algolia&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somia-Saber&layout=compact&theme=algolia" />
 </p>
 
 ---
@@ -68,4 +85,3 @@ Computer Science *.
 ### 📫 Connect with me:
 - 📧 *Email:* [somiasaber2000@gmail.com](mailto:somiasaber2000@gmail.com)
 - 🔗 *LinkedIn:* [Somia Saber](https://www.linkedin.com/in/somia-saber/)
-- 💻 *Portfolio:* Available upon request
