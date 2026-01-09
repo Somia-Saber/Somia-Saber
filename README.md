@@ -62,7 +62,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Somia-Saber&show_icons=true&theme=algolia&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somia-Saber&layout=compact&theme=algolia" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
