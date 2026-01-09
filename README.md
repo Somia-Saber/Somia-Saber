@@ -8,8 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 *Current Focus:* Building scalable web applications using *ASP.NET Core* and *Angular*.
-- 🎓 *Education:* Graduate of *Ain Shams University*.
+- 🔭 *Current Focus:* Building scalable web applications using *PHP (Laravel)*, *ASP.NET Core* and *Angular*.
+- 🎓 *Education:* Graduate of *Future University in Egypt (FUE) | 2019 - 2023 Bachelor’s degree: Faculty of Computers and Information Technology - Department of  
+Computer Science *.
 - 🏆 *Graduation Project:* *Dental X-Ray AI Analysis* (Grade: *A+*) — A cutting-edge Deep Learning project for medical image analysis.
 - 💻 *Experience:* Expert in *Full-Stack development* with a strong background in *PHP/Laravel* and *C#/.NET*.
 - 💼 *Specialty:* Bridging the gap between robust backend systems and modern AI solutions.
