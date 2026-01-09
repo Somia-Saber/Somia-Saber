@@ -53,11 +53,11 @@
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somia-Saber&theme=algolia" />
 </p>
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Somia-Saber&show_icons=true&theme=algolia&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somia-Saber&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Somia-Saber&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Somia-Saber&layout=compact&theme=algolia" />
 </p>
+
 
 ---
 
