@@ -82,5 +82,7 @@
 ---
 
 ### 📫 Connect with me:
-- 📧 *Email:* [somiasaber2000@gmail.com](mailto:somiasaber2000@gmail.com)
-- 🔗 *LinkedIn:* [Somia Saber](https://www.linkedin.com/in/somia-saber/)
+- 📧 Email: [somiasaber2000@gmail.com](mailto:somiasaber2000@gmail.com)
+- 🔗 LinkedIn: [Somia Saber](https://www.linkedin.com/in/somia-saber/)
+- 💻 Portfolio: [Somia Saber](https://somia-saber.github.io/portfolio/) 
+
